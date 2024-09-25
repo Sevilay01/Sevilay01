@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sevilay01
 - 👀 I’m interested in cybersecurity and game development.
-- 🌱 I’m currently learning C and Python.
+- 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on game developing.
 - 📫 How to reach me sevilaycelik829@gmail.com
 
